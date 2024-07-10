@@ -1,0 +1,22 @@
+.container {
+    border: 3px solid black;
+   
+}
+.section{
+    width: 590px;
+    margin:150px 0px 0px 500px;
+}
+.row h3{
+    margin:10px 0px 20px 0px;
+    
+}
+.row h4{
+    margin:5px 0px 0px 0px;
+    font-size: 15px;
+
+    
+}
+.row .col-6 details{
+    margin: 5px 0px 0px 0px;
+    text-align: right;
+}
